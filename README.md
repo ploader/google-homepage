@@ -1,0 +1,1 @@
+In this Project i will build something in HTML to learn how elements get placed on the page and roughly how they get styled and aligned.
